@@ -1,0 +1,7 @@
+[project]
+name = "schedify"
+version = "0.1.0"
+description = "Schedify 課表選課系統（Django）"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["django>=5.2,<6"]
